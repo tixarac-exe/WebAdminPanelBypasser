@@ -10,4 +10,4 @@ Herhangi Bir Site'ye de Brute Force yapabilirsiniz Instagram da bile etkilidir h
 
 ## Sorumluluk Reddi Beyanı 
 
-Bu Tool Eğitim Ve Test Amaçlı Geliştirilmiştir Yetkinizin Olmadığı Hiçbir Sitemde Kullanamazsınız Ve Kullanmamalısınız Her hangi Bir Yasadışü Faliyetden Kullanıcı Sorunludur Bu Tool Sadce Eğitim Ve Test Amaçlıdır.
+Bu Tool Eğitim Ve Test Amaçlı Geliştirilmiştir. Yetkinizin Olmadığı Hiçbir Sistemde Kullanamazsınız Ve Kullanmamalısınız Her hangi Bir Yasadışı Faliyetden Kullanıcı Sorumludur Bu Tool Sadce Eğitim Ve Test Amaçlıdır.
